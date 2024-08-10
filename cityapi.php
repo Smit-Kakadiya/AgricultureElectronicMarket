@@ -68,7 +68,7 @@ if($pr=='NA')
 // $s=$pr;
 // $n=1;
 // }
-
+//
 
 
   file_put_contents('cd.json', json_encode($json_arr1));
